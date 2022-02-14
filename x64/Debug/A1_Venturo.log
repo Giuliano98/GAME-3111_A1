@@ -1,0 +1,7 @@
+﻿  Week4-5-ShapePractice.cpp
+C:\DirectX\A1_Venturo\Source\Week4-5-ShapePractice.cpp(893,71): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\DirectX\A1_Venturo\Source\Week4-5-ShapePractice.cpp(894,71): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\DirectX\A1_Venturo\Source\Week4-5-ShapePractice.cpp(926,98): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\DirectX\A1_Venturo\Source\Week4-5-ShapePractice.cpp(927,97): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\DirectX\A1_Venturo\Source\Week4-5-ShapePractice.cpp(1037,94): warning C4305: 'argument': truncation from 'double' to 'float'
+  A1_Venturo.vcxproj -> C:\DirectX\A1_Venturo\x64\Debug\A1_Venturo.exe
